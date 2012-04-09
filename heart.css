@@ -1,0 +1,24 @@
+@-webkit-keyframes intenseHeart {
+	0%{
+		-webkit-transform:scale(1.2);
+	}
+	80%{
+		-webkit-transform:scale(0.9);
+	}
+	100%{
+		-webkit-transform:scale(1);
+	}
+}
+
+@-webkit-keyframes heart {
+	0%{
+		-webkit-transform:scale(1);
+		
+	}
+	80%{
+		-webkit-transform:scale(0.9);
+	}
+	100%{
+		-webkit-transform:scale(1);
+	}
+}
